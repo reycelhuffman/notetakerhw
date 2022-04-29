@@ -1,34 +1,7 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
-    },
-    {
-        "tip_id": "5d650f49-526b-4def-a2f3-4a5be2ed3e70"
-    },
-    {
-        "title": "Test Title 2",
-        "text": "Test text 2",
-        "tip_id": "1be5dae0-02fc-4fa3-9529-7c9a6785bef6"
-    },
-    {
-        "title": "Test Title 3",
-        "text": "Test text 3",
-        "note_id": "0c4bf21a-e3f3-45b4-9dee-e4f2a03b09be"
-    },
-    {
-        "title": "Test Title 4",
-        "text": "Test text 4",
-        "note_id": "0e16767c-37a1-47e4-a58b-a220c40050bb"
-    },
-    {
-        "title": "Test Title 5",
-        "text": "Test text 5",
-        "note_id": "56aac3ea-f325-4c0b-9f48-7c561144428f"
-    },
-    {
-        "title": "heelooo",
-        "text": "its ",
-        "note_id": "4ce57a97-ad32-4d79-a963-a2161f8757d4"
+        "title": "click me!",
+        "text": "again",
+        "id": "a02f9c1b-ecc7-4159-bd88-19cd2f5260c6"
     }
 ]
